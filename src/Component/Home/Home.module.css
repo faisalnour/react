@@ -1,0 +1,17 @@
+.bgHome {
+  background-color: #1abc9c;
+}
+.imgSrc {
+  width: 250px;
+}
+
+.lineLeft {
+  height: 0.25rem;
+  width: 5rem;
+  background-color: #fff;
+}
+.lineRight {
+    height: 0.25rem;
+    width: 5rem;
+    background-color:#fff;
+  }

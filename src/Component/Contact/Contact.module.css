@@ -1,0 +1,19 @@
+.contact{
+        color: rgb(44, 62, 80);
+        margin-top:5.375rem;
+        min-height: 100vh;
+    
+}
+.lineLeft{
+    height: 0.25rem;
+    width: 5rem;
+    background-color:rgb(44, 62, 80) ;
+    
+}
+
+.lineRight{
+    height: 0.25rem;
+    width: 5rem;
+    background-color: rgb(44, 62, 80);
+
+}
